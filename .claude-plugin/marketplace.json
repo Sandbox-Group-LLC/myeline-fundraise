@@ -1,0 +1,17 @@
+{
+  "name": "myeline-fundraise",
+  "owner": {
+    "name": "Sandbox Group",
+    "url": "https://github.com/Sandbox-Group-LLC"
+  },
+  "plugins": [
+    {
+      "name": "myeline-fundraise",
+      "source": "./",
+      "description": "The fundraising toolkit that remembers — memory-native on Myeline.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "strict": false
+    }
+  ]
+}

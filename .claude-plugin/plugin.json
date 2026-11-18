@@ -1,0 +1,13 @@
+{
+  "name": "myeline-fundraise",
+  "description": "The fundraising toolkit that remembers. Memory-native VC fundraising and investor relations on Myeline: investor updates that draft themselves from last month's promises, a Q&A bank that compounds with every partner meeting, readiness scored from evidence.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sandbox Group",
+    "url": "https://github.com/Sandbox-Group-LLC"
+  },
+  "homepage": "https://github.com/Sandbox-Group-LLC/myeline-fundraise",
+  "repository": "https://github.com/Sandbox-Group-LLC/myeline-fundraise",
+  "license": "MIT",
+  "keywords": ["fundraising", "vc", "investor-relations", "pitch", "memory", "myeline", "mcp", "investor-update", "board-deck"]
+}
